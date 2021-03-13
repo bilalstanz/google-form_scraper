@@ -82,4 +82,5 @@ def char_remover(list3):
             print(new_form)
 
 
-page_type_selector()
+if __name__ == "__main__":
+    page_type_selector()
