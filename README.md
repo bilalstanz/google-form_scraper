@@ -7,3 +7,5 @@ Beautifulsoup
 
 usage information:
 python3 main.py
+
+(note - works only on non login form)
